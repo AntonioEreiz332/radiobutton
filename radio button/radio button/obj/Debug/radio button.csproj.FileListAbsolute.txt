@@ -1,0 +1,10 @@
+C:\Users\toni-PC\source\repos\radio button\radio button\bin\Debug\radio button.exe.config
+C:\Users\toni-PC\source\repos\radio button\radio button\bin\Debug\radio button.exe
+C:\Users\toni-PC\source\repos\radio button\radio button\bin\Debug\radio button.pdb
+C:\Users\toni-PC\source\repos\radio button\radio button\obj\Debug\radio button.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\radio button\radio button\obj\Debug\radio_button.Form1.resources
+C:\Users\toni-PC\source\repos\radio button\radio button\obj\Debug\radio_button.Properties.Resources.resources
+C:\Users\toni-PC\source\repos\radio button\radio button\obj\Debug\radio button.csproj.GenerateResource.cache
+C:\Users\toni-PC\source\repos\radio button\radio button\obj\Debug\radio button.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\radio button\radio button\obj\Debug\radio button.exe
+C:\Users\toni-PC\source\repos\radio button\radio button\obj\Debug\radio button.pdb
